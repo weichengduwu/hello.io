@@ -8,6 +8,7 @@ public class Enumeration02 {
     public static void main(String[] args) {
         System.out.println(Season01.AUTUMN);
         System.out.println(Season01.SPRING);
+        System.out.println("nihao");
     }
 }
 class Season01{
